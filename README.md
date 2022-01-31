@@ -12,7 +12,7 @@ public class PrisonTransfer {
             int aux = i + cPrisoners;
             if(levelIsAceptable(i, prisoners, aux, tLimit)) {
                 nroWays ++;
-            }else{}
+            }else {}
             i ++ ;  
         }
         
