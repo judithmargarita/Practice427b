@@ -1,5 +1,8 @@
 # Practice427b
 CodeForces Exercise
+
+import java.util.List;
+
 public class PrisonTransfer {
     
     public int getNroWaysToTransfer(List<Integer> conditions, List<Integer> prisoners) {
